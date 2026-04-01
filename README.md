@@ -1,7 +1,7 @@
 # 📚 Library Management System
 ### ALP Revisi — Semester 2 Project
  
-A desktop-based Library Management System built with **C# (.NET)** and **Windows Forms**, developed as part of the Algorithm and Programming course in Semester 2 at Universitas Ciputra Surabaya.
+A desktop-based Library Management System built with **C# (.NET)** and **Windows Forms**, developed as part of the Algorithm and Programming course at Universitas Ciputra Surabaya.
  
 ---
  
